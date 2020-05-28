@@ -1,0 +1,8 @@
+*.test.js
+/test*
+/.idea
+/node_modules
+/coverage
+/yarn.lock
+/yarn-error.log
+/.gitignore
